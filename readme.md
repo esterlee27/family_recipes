@@ -1,10 +1,10 @@
-clan mysterious recipes
+Perez's clan secret recipes
 
 Set of recipes as given by my grandma.
 
-~ STH
-~ pizza (TODO)
-~ sauces (TODO)
-<<<<<<< HEAD
-~ spreads (TODO)
-~ lime
+
+- pizzas 
+  - [base](./pizzas/base.md)
+- sauces (TODO)
+- spreads (TODO)
+
